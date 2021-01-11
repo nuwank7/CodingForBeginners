@@ -13,7 +13,7 @@ Coding is very similar to solving problems, puzzles.
 Let's help the Angry Bird get the pigs.  Try out the 20 interactive puzzles.
 
 [Angry Bird - Code.org](https://studio.code.org/hoc/1)
-
+___
 #### Activity 02 - Try out a few more cool activities
 
 [Dance Party](https://studio.code.org/s/dance-2019/stage/1/puzzle/1)
@@ -27,7 +27,8 @@ Let's help the Angry Bird get the pigs.  Try out the 20 interactive puzzles.
 #### Activity 03 - Explore more cool things
 
 Try out the various activities in <http://code.org>
-   
+___
+
 #### Activity 04 - Try out [Scratch](https://scratch.mit.edu)
 
 Scratch is a wonderful environment to express your creativity by creating animations, games
@@ -40,9 +41,23 @@ Next try out the other Tutorials that are there in Scratch. If you create some t
 1. [CodeFest Main Website - https://www.codefest.lk](https://www.codefest.lk)
 2. [CodeFest YouTube Channel](https://www.youtube.com/channel/UCDaxwd2d6eO22DGw8ENUgEA/featured?view_as=subscriber)
 3. [Learn Scratch Tutorials - YouTube Channel](https://www.youtube.com/channel/UC7TElo5v53qGclMrc1571_A)
+___
+#### Activity 05 - Try out [MIT App Inventer](http://ai2.appinventor.mit.edu/)
 
-   
-   
+With your knowledge with Scratch, you an move on to develop cool Android Apps.  
+
+Try out the [Begineer Tutorials to explore MIT App Inventor](https://appinventor.mit.edu/explore/ai2/beginner-videos).
+
+Try out the Course [Learn to build Android Apps in hours](http://www.appinventor.org)
+
+##### Resources 
+1. [CodeFest Main Website - https://www.codefest.lk](https://www.codefest.lk)
+2. [CodeFest YouTube Channel](https://www.youtube.com/channel/UCDaxwd2d6eO22DGw8ENUgEA/featured?view_as=subscriber)
+3. [Learn to build Android Apps in hours](http://www.appinventor.org)
+4. [Study to Night - MIT App Inventor Tutorials](https://www.studytonight.com/android-app-using-mit-appinventor)
+ 
+
+
    
 
 
