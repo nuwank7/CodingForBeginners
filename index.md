@@ -33,7 +33,7 @@ Try out the various activities in <http://code.org>
 
 #### Activity 04 - Try out [Scratch](https://scratch.mit.edu)
 
-Scratch is a wonderful environment to express your creativity by creating animations, games
+Scratch is a wonderful environment to express your creativity by creating animations and games.
    
 Create a user account in Scratch so that you can save your projects [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted). Try the beginner tutorial by following the steps given.
 
@@ -48,9 +48,9 @@ Next try out the other Tutorials that are there in Scratch. If you create some t
 
 #### Activity 05 - Try out [MIT App Inventer](http://ai2.appinventor.mit.edu/)
 
-With your knowledge with Scratch, you an move on to develop cool Android Apps.  
+With your knowledge with Scratch, you can move on to develop cool Android Apps.  
 
-Try out the [Begineer Tutorials to explore MIT App Inventor](https://appinventor.mit.edu/explore/ai2/beginner-videos).
+Try out the [Beginner Tutorials to explore MIT App Inventor](https://appinventor.mit.edu/explore/ai2/beginner-videos).
 
 Try out the Course [Learn to build Android Apps in hours](http://www.appinventor.org)
 
