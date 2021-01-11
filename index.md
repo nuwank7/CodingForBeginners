@@ -26,7 +26,21 @@ Let's help the Angry Bird get the pigs.  Try out the 20 interactive puzzles.
   
 #### Activity 03 - Explore more cool things
 
-   Try out the various activities in <http://code.org>
+Try out the various activities in <http://code.org>
+   
+#### Activity 04 - Try out [Scratch](https://scratch.mit.edu)
+
+Scratch is a wonderful environment to express your creativity by creating animations, games
+   
+Create a user account in Scratch so that you can save your projects [Scratch](https://scratch.mit.edu/projects/editor/?tutorial=getStarted). Try the beginner tutorial by following the steps given.
+
+Next try out the other Tutorials that are there in Scratch. If you create some thing great you can share it with the whole world.
+
+##### Resources 
+1. [CodeFest Main Website - https://www.codefest.lk](https://www.codefest.lk)
+2. [CodeFest YouTube Channel](https://www.youtube.com/channel/UCDaxwd2d6eO22DGw8ENUgEA/featured?view_as=subscriber)
+3. [Learn Scratch Tutorials - YouTube Channel](https://www.youtube.com/channel/UC7TElo5v53qGclMrc1571_A)
+
    
    
    
