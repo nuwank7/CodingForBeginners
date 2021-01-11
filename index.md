@@ -23,7 +23,7 @@ Let's help the Angry Bird get the pigs.  Try out the 20 interactive puzzles.
   
 [Create a simple Game - Flappy](https://hourofcode.com/flap)
 
-[Dance Party](https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/1)
+[Dance Party Extended](https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/1)
   
 #### Activity 03 - Explore more cool things
 
