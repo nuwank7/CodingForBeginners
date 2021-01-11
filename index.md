@@ -16,17 +16,19 @@ Let's help the Angry Bird get the pigs.  Try out the 20 interactive puzzles.
 
 #### Activity 02 - Try out a few more cool activities
 
-[Dance Party](https://hourofcode.com/dance2019)
+[Dance Party](https://studio.code.org/s/dance-2019/stage/1/puzzle/1)
   
-[Star Wars](https://hourofcode.com/star-wars)
-  
-[Grinch](https://hourofcode.com/grinch)
+[Star Wars](https://studio.code.org/s/starwarsblocks/stage/1/puzzle/1)
   
 [Create a simple Game - Flappy](https://hourofcode.com/flap)
+
+[Dance Party](https://studio.code.org/s/dance-extras-2019/stage/1/puzzle/1)
   
 #### Activity 03 - Explore more cool things
 
    Try out the various activities in <http://code.org>
+   
+   
    
 
 
