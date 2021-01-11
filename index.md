@@ -61,8 +61,3 @@ Try out the Course [Learn to build Android Apps in hours](http://www.appinventor
 4. [Study to Night - MIT App Inventor Tutorials](https://www.studytonight.com/android-app-using-mit-appinventor)
  
 
-
-   
-
-
-
